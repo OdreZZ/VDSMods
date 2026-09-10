@@ -2,8 +2,8 @@
 
 ## Install Steps
 1. On this *GitHub* page, click the green `Code` button and then `Download ZIP`.
-2. Extract the ZIP file and copy the `BepInEx` folder.
-3. Paste the folder into the main *Valheim* folder (`Steam\steamapps\common\Valheim`).
+2. Extract the ZIP file and copy all the folders and files .
+3. Paste them into the main *Valheim* folder (`Steam\steamapps\common\Valheim`).
 
 ### Result
 The contents of the ZIP file are in the same folder as `Valheim.exe`.

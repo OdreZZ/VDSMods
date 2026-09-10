@@ -6,11 +6,11 @@
 3. Paste the folder into the main *Valheim* folder (`Steam\steamapps\common\Valheim`).
 
 ### Result
-The new `BepInEx` folder is in the same folder as `Valheim.exe`.
+The contents of the ZIP file are in the same folder as `Valheim.exe`.
 
 If everything is okay, the `BepInEx` console window will start when *Valheim* starts.
 
-<img width="618" height="358" alt="image" src="https://github.com/user-attachments/assets/948a8715-9ae2-4587-bdf2-be19888e3556" />
+<img width="626" height="395" alt="image" src="https://github.com/user-attachments/assets/c257bb63-a92e-45a0-b834-1516bbe4913a" />
 
 <img width="1168" height="1030" alt="image" src="https://github.com/user-attachments/assets/262dbf0c-57d1-45d1-b805-90e60f392f31" />
 

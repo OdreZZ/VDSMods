@@ -16,9 +16,8 @@ If everything is okay, the `BepInEx` console window will start when *Valheim* st
 
 ## Join Server Steps
 1. Install *ZeroTier* and join the network. Ask someone for the full Network ID.
-2. Check that the network ID starts with `83...` and is `pedantic_...` for our server.
-3. Start *Valheim*, select character and go to `Join Game`.
-4. Click `Add Server` and enter: `192.168.191.26`
+2. Start *Valheim*, select character and go to `Join Game`.
+3. Click `Add Server` and enter: `192.168.191.26`
 
 ### Result
 

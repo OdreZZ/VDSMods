@@ -1,0 +1,9 @@
+[Debug]: Seasonal Timer Awake
+[Debug]: [FejdStartup Awake] Generation textures time: 8ms
+[Debug]: [FejdStartup Awake]: Registered 0 new materials
+[Debug]: [ZNetScene Awake] Generation textures time: 4ms
+[Debug]: [ZNetScene Awake]: Registered 0 new materials
+[Debug]: [ZoneSystem SetupLocations] Generation textures time: 3ms
+[Debug]: [ZoneSystem SetupLocations]: Registered 0 new materials
+[Debug]: ZNet.Start
+[Debug]: Reading last season change from, Mirheim.Seasonality: 558439,615709212
